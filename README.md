@@ -1,4 +1,4 @@
-# Ratul Hasan Ruhan's Portfolio
+# Gias Uddin's Portfolio
 
 Welcome to my personal portfolio repository! This is where I showcase my work, skills, and thoughts through my blog posts. I'm a Software Engineer passionate about building scalable applications and exploring new technologies.
 
@@ -19,7 +19,7 @@ ratulhasanruhan.github.io/
 │   │   ├── ratulhasan-avatar.png
 │   │   ├── ratulhsan-faviocn.ico
 │   │   └── icons/
-│   └── Ratul Hasan Ruhan_CV_2025.pdf
+│   └── Gias Uddin_CV_2025.pdf
 ├── index.html
 └── README.md
 ```
