@@ -26,5 +26,12 @@
 	  "category": "Mobile Apps",
 	  "image": "aims.webp",
 	  "url": "https://play.google.com/store/apps/details?id=com.uslbd.aimsbd"
+	},
+         {
+	  "title": "Regal Furniture",
+	  "subtitle": "RFL AKC (PVT) LTD App",
+	  "category": "Mobile Apps",
+	  "image": "regal.webp",
+	  "url": "https://play.google.com/store/apps/details?id=com.rfl.regal"
 	}
   ]
