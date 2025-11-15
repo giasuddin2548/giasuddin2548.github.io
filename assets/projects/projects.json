@@ -1,37 +1,44 @@
 [
-	{
-	  "title": "City Invest",
-	  "subtitle": "City Bank Plc Invest app",
-	  "category": "Mobile Apps",
-	  "image": "cityinvest.webp",
-	  "url": "https://play.google.com/store/apps/details?id=com.csicitycustodian.city_custodian"
-	},
-	{
-	  "title": "BRAC EPL Stock Brokerage iDesk",
-	  "subtitle": "Brac Epl stock Brokerage app",
-	  "category": "Mobile Apps",
-	  "image": "idesk.webp",
-	  "url": "https://play.google.com/store/apps/details?id=com.bracepl.brack_epl"
-	},
-	{
-	  "title": "UINVEST by UCB Stock",
-	  "subtitle": "UCB stock Brokerage app",
-	  "category": "Mobile Apps",
-	  "image": "ucbstock.webp",
-	  "url": "https://play.google.com/store/apps/details?id=com.usl.ucb_stock"
-	},
-	{
-	  "title": "GB-AIMS Unit Fund",
-	  "subtitle": "Grameen Bank-AIMS Unit Fund",
-	  "category": "Mobile Apps",
-	  "image": "aims.webp",
-	  "url": "https://play.google.com/store/apps/details?id=com.uslbd.aimsbd"
-	},
-         {
-	  "title": "Regal Furniture",
-	  "subtitle": "RFL AKC (PVT) LTD App",
-	  "category": "Mobile Apps",
-	  "image": "regal.webp",
-	  "url": "https://play.google.com/store/apps/details?id=com.rfl.regal"
-	}
-  ]
+  {
+    "title": "City Invest",
+    "subtitle": "City Bank Plc Invest app",
+    "category": "Mobile Apps",
+    "image": "cityinvest.webp",
+    "url": "https://play.google.com/store/apps/details?id=com.csicitycustodian.city_custodian"
+  },
+  {
+    "title": "BRAC EPL Stock Brokerage iDesk",
+    "subtitle": "Brac Epl stock Brokerage app",
+    "category": "Mobile Apps",
+    "image": "idesk.webp",
+    "url": "https://play.google.com/store/apps/details?id=com.bracepl.brack_epl"
+  },
+  {
+    "title": "UINVEST by UCB Stock",
+    "subtitle": "UCB stock Brokerage app",
+    "category": "Mobile Apps",
+    "image": "ucbstock.webp",
+    "url": "https://play.google.com/store/apps/details?id=com.usl.ucb_stock"
+  },
+  {
+    "title": "GB-AIMS Unit Fund",
+    "subtitle": "Grameen Bank-AIMS Unit Fund",
+    "category": "Mobile Apps",
+    "image": "aims.webp",
+    "url": "https://play.google.com/store/apps/details?id=com.uslbd.aimsbd"
+  },
+  {
+    "title": "Regal Furniture",
+    "subtitle": "RFL AKC (PVT) LTD App",
+    "category": "Mobile Apps",
+    "image": "regal.webp",
+    "url": "https://play.google.com/store/apps/details?id=com.rfl.regal"
+  },
+  {
+    "title": "Unihrm",
+    "subtitle": "Smart and Unisoft remote attendance app",
+    "category": "Mobile Apps",
+    "image": "unihrm.webp",
+    "url": "https://play.google.com/store/apps/details?id=com.unisoft.uni_attendance"
+  }
+]
