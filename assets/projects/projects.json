@@ -2,16 +2,30 @@
   {
     "title": "City Invest",
     "subtitle": "City Bank Plc Invest app",
-    "category": "Mobile Apps",
+    "category": "Android", 
     "image": "cityinvest.webp",
     "url": "https://play.google.com/store/apps/details?id=com.csicitycustodian.city_custodian"
   },
   {
+    "title": "City Invest",
+    "subtitle": "City Bank Plc Invest app",
+    "category": "iOS", 
+    "image": "cityinvest.webp",
+    "url": "https://apps.apple.com/us/app/city-invest-custodian/id1630880616"
+  }, 
+  {
     "title": "BRAC EPL Stock Brokerage iDesk",
     "subtitle": "Brac Epl stock Brokerage app",
-    "category": "Mobile Apps",
+    "category": "Android",
     "image": "idesk.webp",
     "url": "https://play.google.com/store/apps/details?id=com.bracepl.brack_epl"
+  },
+  {
+    "title": "BRAC EPL Stock Brokerage iDesk",
+    "subtitle": "Brac Epl stock Brokerage app",
+    "category": "iOS",
+    "image": "idesk.webp",
+    "url": "https://apps.apple.com/us/app/idesk-brac-epl-ltd/id1644667971"
   },
   {
     "title": "UINVEST by UCB Stock",
