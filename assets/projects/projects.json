@@ -2,17 +2,17 @@
   {
     "title": "City Invest",
     "subtitle": "City Bank Plc Invest app",
-    "category": "Android", 
+    "category": "Android",
     "image": "cityinvest.webp",
     "url": "https://play.google.com/store/apps/details?id=com.csicitycustodian.city_custodian"
   },
   {
     "title": "City Invest",
     "subtitle": "City Bank Plc Invest app",
-    "category": "iOS", 
+    "category": "iOS",
     "image": "cityinvest.webp",
     "url": "https://apps.apple.com/us/app/city-invest-custodian/id1630880616"
-  }, 
+  },
   {
     "title": "BRAC EPL Stock Brokerage iDesk",
     "subtitle": "Brac Epl stock Brokerage app",
@@ -34,7 +34,7 @@
     "image": "ucbstock.webp",
     "url": "https://play.google.com/store/apps/details?id=com.usl.ucb_stock"
   },
-    {
+  {
     "title": "UINVEST by UCB Stock",
     "subtitle": "UCB stock Brokerage app",
     "category": "iOS",
@@ -61,11 +61,98 @@
     "category": "Android",
     "image": "unihrm.webp",
     "url": "https://play.google.com/store/apps/details?id=com.unisoft.uni_attendance"
-  },  {
+  },
+  {
     "title": "Unihrm",
     "subtitle": "Smart and Unisoft remote attendance app",
     "category": "iOS",
     "image": "unihrm.webp",
     "url": "https://apps.apple.com/us/app/unihrm/id6472610496"
+  },
+
+  {
+    "title": "City CRMS",
+    "subtitle": "Collection and Recovery Management System",
+    "category": "Flutter",
+    "image": "",
+    "url": ""
+  },
+  {
+    "title": "Prime CRMS",
+    "subtitle": "Collection and Recovery Management System",
+    "category": "Flutter",
+    "image": "",
+    "url": ""
+  },
+  {
+    "title": "UCB CRMS",
+    "subtitle": "Collection and Recovery Management System",
+    "category": "Flutter",
+    "image": "",
+    "url": ""
+  },
+  {
+    "title": "Brac CMS",
+    "subtitle": "Collection and Recovery Management System",
+    "category": "Android",
+    "image": "",
+    "url": ""
+  },
+  {
+    "title": "Lonka Bangla CMS",
+    "subtitle": "Collection and Recovery Management System",
+    "category": "Flutter",
+    "image": "",
+    "url": ""
+  },
+  {
+    "title": "IFIC CRMS",
+    "subtitle": "Collection and Recovery Management System",
+    "category": "Flutter",
+    "image": "",
+    "url": ""
+  },
+
+  {
+    "title": "Brac EPL Investment",
+    "subtitle": "Framework: Flutter",
+    "category": "Flutter",
+    "image": "",
+    "url": ""
+  },
+  {
+    "title": "Community Bank Investment App",
+    "subtitle": "Framework: Flutter",
+    "category": "Flutter",
+    "image": "",
+    "url": ""
+  },
+  {
+    "title": "IIDFC Investment App",
+    "subtitle": "Framework: Flutter",
+    "category": "Flutter",
+    "image": "",
+    "url": ""
+  },
+  {
+    "title": "Shanta Asset Management",
+    "subtitle": "Framework: Flutter",
+    "category": "Flutter",
+    "image": "",
+    "url": ""
+  },
+  {
+    "title": "Shandhani Asset Management",
+    "subtitle": "Framework: Flutter",
+    "category": "Flutter",
+    "image": "",
+    "url": ""
+  },
+  {
+    "title": "Investment Corporation of Bangladesh - Invest Monitoring",
+    "subtitle": "Framework: Flutter",
+    "category": "Flutter",
+    "image": "",
+    "url": ""
   }
 ]
